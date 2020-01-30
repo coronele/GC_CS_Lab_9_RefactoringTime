@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GC_CS Lab - Refactoring Time/1.0.0": {
+        "runtime": {
+          "GC_CS Lab - Refactoring Time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GC_CS Lab - Refactoring Time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

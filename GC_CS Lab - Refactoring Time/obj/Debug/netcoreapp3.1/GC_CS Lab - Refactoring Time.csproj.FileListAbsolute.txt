@@ -1,0 +1,11 @@
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\bin\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.exe
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\bin\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.deps.json
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\bin\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.runtimeconfig.json
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\bin\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.runtimeconfig.dev.json
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\bin\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.dll
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\bin\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.pdb
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\obj\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.csprojAssemblyReference.cache
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\obj\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.AssemblyInfoInputs.cache
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\obj\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.AssemblyInfo.cs
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\obj\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.dll
+C:\Users\coronele\source\repos\GC_CS Lab - Refactoring Time\GC_CS Lab - Refactoring Time\obj\Debug\netcoreapp3.1\GC_CS Lab - Refactoring Time.pdb
