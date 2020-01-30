@@ -17,7 +17,6 @@ namespace GC_CS_Lab___Refactoring_Time
 
             // This shows the program title
             ShowTitle("Get to Know Your Classmates!");
-            // DisplayMenu(studentName);
 
             // Program loop
             do
@@ -28,6 +27,7 @@ namespace GC_CS_Lab___Refactoring_Time
 
                 if (progOption == 1)
                 {
+                    DisplayMenu(studentName);
                     // Prompt for and receive student info input
                     int stuNum = GetStuNum($"Please enter a student number: [1-{studentName.Count}]", "Incorrect input! Please enter a valid student number: ", studentName.Count);
                     // Get information on that student
@@ -43,11 +43,13 @@ namespace GC_CS_Lab___Refactoring_Time
                 }
 
                 // Prompt to repeat program
-                continueProg = TryAgain("Would you like to return to main menu? [y/n]");
+                if (progOption != 3)
+                {
+                    continueProg = TryAgain("Would you like to return to main menu? [y/n]");
+                }
             }
             while (continueProg == "y");  // change
         }
-
 
         public static void GetStuInfo(int studentSelect, List<string> stuName, List<string> stuFood, List<string> stuHomeTown, List<string> stuAge, List<string> stuColor)
         {
@@ -100,8 +102,8 @@ namespace GC_CS_Lab___Refactoring_Time
         
         public static void AddNewItemToList(string prompt, string itemName, List<string> userList)
         {
-            string userItem = Console.ReadLine();
-            Console.WriteLine(prompt);
+            string userItem = GetUserInput(prompt);
+
             if (userItem == "")
             {
                 Console.WriteLine($"You may not enter a blank item for {itemName}.");
